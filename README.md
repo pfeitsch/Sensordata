@@ -1,2 +1,2 @@
 # Sensordata
-Einlesen Sensordaten in html 
+Einlesen Sensordaten in sql db
